@@ -1,3 +1,3 @@
 # pdsl-hour-tracker
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/febinsug/pdsl-hour-tracker)
+Git HUB Repo. MAN OF THE MATCH - KARTHIK DANAM
